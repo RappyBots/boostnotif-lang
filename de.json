@@ -23,6 +23,7 @@
         "someoneBoosted2": "Danke <usr>, dass du den Server boostest!",
         "lostBoost": "☹️ Wir haben einen Booster verloren!",
         "lostBoost2": "<usr> hat aufgehört den Server zu boosten!",
+        "testBoot": "[TESTBOOST]",
         "roleList": "Rollenliste:",
         "emptyRoleList": "Es sind keine Rollen auf der Liste.\nFüge eine mit <cmd> hinzu.",
         "server": "Klick [hier](https://discord.gg/2RctHuWqPB) um dem Support Server beizutreten."
