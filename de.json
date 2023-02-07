@@ -1,0 +1,47 @@
+{
+    "_name": "Deutsch",
+    "_verified": true,
+    "success": {
+        "updatedGlb": "✅ Deine globalen Boosts wurden erfolgreich aktualisiert!",
+        "sendBoost": "✅ Testboost [+] erfolgreich gesendet!",
+        "sendBoostLoss": "✅ Testboost [-] erfolgreich gesendet!",
+        "addedRole": "✅ Die <role>-Rolle wurde erfolgreich der Liste hinzugefügt!",
+        "removedRole": "✅ Die <role>-Rolle wurde erfolgreich von der Liste entfernt!",
+        "setChannel": "✅ Boost Benachrichtigungen werden nun in <ch> gesendet!",
+        "unsetChannel": "✅ Boost Benachrichtigungen sind nun deaktiviert!",
+        "setBoostImage": "✅ Boost Benachrichtigungen [+] werden nun dieses Bild anzeigen:",
+        "setBoostLossImage": "✅ Boost Benachrichtigungen [-] werden nun dieses Bild anzeigen:",
+        "unsetImage": "✅ Das Bild wurde erfolgreich entfernt!",
+        "setDM": "✅ Booster werden nun eine Direktnachricht bekommen, wenn sie boosten!",
+        "unsetDM": "✅ Booster werden nun keine Direktnachticht mehr bekommen, wenn sie boosten!",
+        "setLang": "✅ Die Sprache wurde erfolgreich auf <lang> umgestellt!",
+        "suggestion": "✅ Dein Vorschlag wurde erfolgreich abgesendet!"
+    },
+    "neutral": {
+        "tyForBoosting": "✨ **Vielen dank, dass du den Server boostest!!**",
+        "someoneBoosted": "✨ Wir haben einen neuen Booster!",
+        "someoneBoosted2": "Danke <usr>, dass du den Server boostest!",
+        "lostBoost": "☹️ Wir haben einen Booster verloren!",
+        "lostBoost2": "<usr> hat aufgehört den Server zu boosten!",
+        "roleList": "Rollenliste:",
+        "emptyRoleList": "Es sind keine Rollen auf der Liste.\nFüge eine mit <cmd> hinzu.",
+        "server": "Klick [hier](https://discord.gg/2RctHuWqPB) um dem Support Server beizutreten."
+    },
+    "errors": {
+        "title": "❌ Ein Fehler ist aufgetreten!",
+        "title2": "❌ Ups, da ist etwas nicht richtig gelaufen...",
+        "devOnly": "du bist kein developer",
+        "invalidCmd": "❌ Ungültiger Befehl!",
+        "invalidBtn": "❌ Ungültiger Knopf!",
+        "invalidMenu": "❌ Ungültiges Menü!",
+        "invalidModal": "❌ Ungültiges Modal!",
+        "setupChannel": "❌ Bitte richte erst einen Kanal mit <cmd> ein!",
+        "invalidChannel": "<usr> hat gerade geboostet, aber ich konnte den Chat nicht finden, in den ich die Benachtichtigung senden sollte.\nBitte richte einen neuen Kanal mit <cmd> ein!",
+        "invalidChannel2": "<usr> hat gerade aufgehört zu boosten, aber ich konnte den Chat nicht finden, in den ich die Benachtichtigung senden sollte.\nBitte richte einen neuen Kanal mit <cmd> ein!",
+        "channelPermissions": "<usr> hat gerade geboostet, aber ich konnte keine Nachricht in <ch> senden.\nBitte überprüfe meine Berechtigungen!",
+        "channelPermissions2": "<usr> hat gerade aufgehört zu boosten, aber ich konnte keine Nachricht in <ch> senden.\nBitte überprüfe meine Berechtigungen!",
+        "roleAlreadyOnList": "❌ Diese Rolle ist bereits auf der Liste!",
+        "roleNotOnList": "❌ Diese Rolle ist nicht auf der Liste!",
+        "invalidUrl": "❌ Bitte gib eine gültige URL an! (sie muss http:// oder https:// beinhalten)"
+    }
+}
