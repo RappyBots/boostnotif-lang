@@ -23,10 +23,24 @@
         "someoneBoosted2": "Thank you <usr> for boosting the server!",
         "lostBoost": "☹️ We lost a boost!",
         "lostBoost2": "<usr> is no longer boosting the server!",
-        "testBoot": "[TESTBOOST]",
         "roleList": "Role List:",
         "emptyRoleList": "There are no roles on the list.\nAdd one with <cmd>.",
         "server": "Click [here](https://discord.gg/2RctHuWqPB) to join the support server."
+    },
+    "help": {
+        "title": "**How to use this bot.**",
+        "field1": {
+            "title": "**How to manage your notification channel.**",
+            "desc": "You can set up a boost notification channel with <set>. Embeds are then sent to this channel when a user boosts, or stops boosting the server.\nIf you want to remove the channel you can just execute <clear>."
+        },
+        "field2": {
+            "title": "**How to send the user a DM when they boost.**",
+            "desc": "You can use the command <cmd> to activate (true) or deactivate (false) direct messaging users when boost."
+        },
+        "field3": {
+            "title": "**How can I display images when someone boosts.**",
+            "desc": "<cmd> let's you choose an image which will be displayed when someone boosts and when <cmd2> someone stops boosting."
+        }
     },
     "errors": {
         "title": "❌ An error ocurred!",

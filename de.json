@@ -23,10 +23,24 @@
         "someoneBoosted2": "Danke <usr>, dass du den Server boostest!",
         "lostBoost": "☹️ Wir haben einen Booster verloren!",
         "lostBoost2": "<usr> hat aufgehört den Server zu boosten!",
-        "testBoot": "[TESTBOOST]",
         "roleList": "Rollenliste:",
         "emptyRoleList": "Es sind keine Rollen auf der Liste.\nFüge eine mit <cmd> hinzu.",
         "server": "Klick [hier](https://discord.gg/2RctHuWqPB) um dem Support Server beizutreten."
+    },
+    "help": {
+        "title": "**Wie man diesen Bot benutzt.**",
+        "field1": {
+            "title": "**Wie kann ich meinen Benachrichtigungskanal verwalten?**",
+            "desc": "Du kannst einen Benachrichtigungskanal mit <set> setzen. In diesen Kanal werden nun Embeds gesendet, wenn jemand boostet oder aufhört zu boosten.\nWenn du den Benachrichtungskanal zurücksetzen möchtest, kannst du <clear> benutzen."
+        },
+        "field2": {
+            "title": "**Wie kann ich Mitgliedern eine DM schicken, wenn sie boosten?**",
+            "desc": "Du kannst <cmd> um Boost-DMs zu aktivieren (true) oder zu deaktivieren (false)."
+        },
+        "field3": {
+            "title": "**Wie kann ich Bilder anzeigen lassen, wenn jemand boostet?**",
+            "desc": "<cmd> lässt dich ein Bild auswählen, welches gesendet wird, wenn jemand boostet und <cmd2> wenn jemand aufhört zu boosten."
+        }
     },
     "errors": {
         "title": "❌ Ein Fehler ist aufgetreten!",
