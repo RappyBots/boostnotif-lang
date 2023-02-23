@@ -25,7 +25,11 @@
         "lostBoost2": "<usr> is no longer boosting the server!",
         "roleList": "Role List:",
         "emptyRoleList": "There are no roles on the list.\nAdd one with <cmd>.",
-        "server": "Click [here](https://discord.gg/2RctHuWqPB) to join the support server."
+        "server": "Click [here](https://discord.gg/2RctHuWqPB) to join the support server.",
+        "rate": "Click [here](<link>) to rate the bot on [top.gg](https://top.gg)",
+        "vote": "Click [here](<link>) to vote for the bot on [top.gg](https://top.gg)",
+        "noVotes": "You haven't voted yet.",
+        "votes": "You've voted **<votes>x**!"
     },
     "help": {
         "title": "**How to use this bot.**",
