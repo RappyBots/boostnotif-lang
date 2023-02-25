@@ -61,6 +61,8 @@
         "channelPermissions2": "<usr> is no longer a booster and I was not able to send the message into <ch>.\nPlease check my permissions!",
         "roleAlreadyOnList": "❌ This role is already added to the list!",
         "roleNotOnList": "❌ This role is not on the list!",
-        "invalidUrl": "❌ Please provide a valid url! (you have to include http:// or https://)"
+        "invalidUrl": "❌ Please provide a valid url! (you have to include http:// or https://)",
+        "notEnoughPermission": "❌ You don't have enough permissions to use this command!",
+        "helpPermission": "You don't have permissions to change the bot's settings here!\nBut you can of course [invite this bot](https://boost.rappytv.com/invite) to your server ;)"
     }
 }

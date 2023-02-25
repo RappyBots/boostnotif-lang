@@ -61,6 +61,8 @@
         "channelPermissions2": "<usr> hat gerade aufgehört zu boosten, aber ich konnte keine Nachricht in <ch> senden.\nBitte überprüfe meine Berechtigungen!",
         "roleAlreadyOnList": "❌ Diese Rolle ist bereits auf der Liste!",
         "roleNotOnList": "❌ Diese Rolle ist nicht auf der Liste!",
-        "invalidUrl": "❌ Bitte gib eine gültige URL an! (sie muss http:// oder https:// beinhalten)"
+        "invalidUrl": "❌ Bitte gib eine gültige URL an! (sie muss http:// oder https:// beinhalten)",
+        "notEnoughPermission": "❌ Du hast nicht genug Rechte, um diesen Befehl auszuführen!",
+        "helpPermission": "Du hast nicht genug Rechte, die Einstellungen hier zu ändern!\nAber du kannst den Bot natürlich zu deinem Server [einladen](https://boost.rappytv.com/invite) ;)"
     }
 }
